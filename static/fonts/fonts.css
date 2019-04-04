@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Skullboy";
+  src: local("ChevyRay - Skullboy"),
+    url("./ChevyRaySkullboy.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Magic Book";
+  src: local("ChevyRay - Magic Book"),
+    url("./ChevyRayMagicBook.ttf") format("truetype");
+}
